@@ -3,4 +3,4 @@ first of all i installed github plugin in jenkins
 then installed git in local server(amazon-linux server) it automatically added path for git in global tool config of jenkins
 now i created a job in jenkins and adding this repsoitory url (https)
 then i will check whether this is integrated or not by checking this repo in local server
-editing just to check build triggers in jenkins
+editing just to check build triggers in jenkins...
